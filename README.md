@@ -1,4 +1,4 @@
 # simple-subscribe-page
 A simple subscribe page with mailchimp integration
 
-![Alt Text](https://media.giphy.com/media/6S0tvtsqySZawMZt9T/giphy.gif)
+![Alt Text](https://media.giphy.com/media/u6rqGiGMLe8hm0hkKz/giphy.gif)
